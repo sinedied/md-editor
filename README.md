@@ -20,6 +20,7 @@ Git clone this repo, then:
 
 ## Todo
 
+- [ ] Fix offline build of Angular variants (use online link meanwhile)
 - [ ] [React + Redux] Add react thunk + reselect
 - [ ] Add http call example (load from gist)
 - [ ] Implement React (pure) variant
