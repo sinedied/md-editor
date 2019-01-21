@@ -1,0 +1,12 @@
+@import url("https://use.fontawesome.com/releases/v5.0.13/css/all.css");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400|Ubuntu:300");
+
+html,
+body,
+#root {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  height: 100%;
+}

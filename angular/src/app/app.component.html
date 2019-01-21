@@ -1,0 +1,6 @@
+<header-bar (onReset)="onReset()"></header-bar>
+<div class="split-view">
+  <md-editor [(content)]="content" (contentChange)="onContentChanged()"></md-editor>
+  <md-viewer [content]="content"></md-viewer>
+</div>
+<status-bar [stats]="stats"></status-bar>

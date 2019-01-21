@@ -1,0 +1,7 @@
+.viewer blockquote {
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  padding: 0 1em;
+  border-left: 3px solid #999;
+  color: #999;
+}

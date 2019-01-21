@@ -1,0 +1,6 @@
+<header-bar (onReset)="onReset()"></header-bar>
+<div class="split-view">
+  <md-editor [content]="content$ | async" (contentChange)="onContentChanged($event)"></md-editor>
+  <md-viewer [content]="content$ | async"></md-viewer>
+</div>
+<status-bar [stats]="stats$ | async"></status-bar>

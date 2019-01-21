@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://use.fontawesome.com/releases/v5.0.13/css/all.css");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400|Ubuntu:300");
+
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  height: 100%;
+}

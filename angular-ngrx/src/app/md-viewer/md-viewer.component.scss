@@ -1,0 +1,16 @@
+:host {
+  flex: 1;
+  overflow: auto;
+}
+
+.viewer {
+  padding: 0 1rem;
+}
+
+:host ::ng-deep blockquote {
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  padding: 0 1em;
+  border-left: 3px solid #999;
+  color: #999;
+}
