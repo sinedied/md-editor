@@ -2,6 +2,8 @@
 
 Simple markdown editor used as an example app to compare frameworks and state management libraries.
 
+See [the final app](https://5455r3lj2n.codesandbox.io) in action.
+
 ## Variants
 
 - [Angular (pure)](angular) (see online: https://codesandbox.io/s/4rk0yv62x0)

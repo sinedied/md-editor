@@ -1,0 +1,29 @@
+{
+  "window.zoomLevel": 3,
+  "workbench.colorTheme": "GitHub Clean White",
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#ffffff",
+    "editorCursor.foreground": "#0000bb",
+    "editor.lineHighlightBackground": "#f0f0f0",
+    "editor.selectionBackground": "#aaeeff",
+    // "terminal.background": "#1d1d1d"
+  },
+  "workbench.statusBar.visible": false,
+  // "workbench.activityBar.visible": false,
+  // "explorer.openEditors.visible": 0,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderIndentGuides": false,
+  // "editor.fontFamily": "SF Mono",
+  // "editor.fontWeight": "600",
+  "editor.fontSize": 17,
+  "markdown.preview.fontSize": 20,
+  // "terminal.integrated.fontFamily": "SF Mono",
+  "terminal.integrated.fontWeight": "800",
+  "terminal.integrated.fontSize": 20,
+  "terminal.integrated.shell.osx": "/bin/bash",
+  "terminal.integrated.shellArgs.osx": [
+    "--rcfile", "<(echo \"PS1='\\W $ '\")"
+  ],
+  "editor.formatOnSave": false,
+}
