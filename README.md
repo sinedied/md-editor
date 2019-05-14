@@ -25,5 +25,6 @@ Git clone this repo, then:
 - [ ] Fix offline build of Angular variants (use online link meanwhile)
 - [ ] [React + Redux] Add react thunk + reselect
 - [ ] Add http call example (load from gist)
+- [ ] Implement Angular + Akita variant
 - [ ] Implement React (pure) variant
 - [ ] Implement Vue (pure variant)
